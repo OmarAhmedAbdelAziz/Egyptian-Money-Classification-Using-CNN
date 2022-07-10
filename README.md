@@ -1,3 +1,3 @@
 # Egyptian-Money-Classification-Using-CNN
 
-![](1/moneyphoto.png)
+![](1/moneyphoto.jpg)
